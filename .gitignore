@@ -1,5 +1,5 @@
-.env
 *.log
 __pycache__/
-.vscode/
 .idea/
+config.bat
+node_modules
